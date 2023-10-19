@@ -1,0 +1,36 @@
+
+#grey{
+    width: 100px;
+    height: 100px;
+    border: none;  
+    background-color: grey;
+}
+#white{
+    width: 100px;
+    height: 100px;
+    border: none; 
+    background-color: white;
+}
+#blue{
+    width: 100px;
+    height: 100px;
+    border: none; 
+    background-color: blue;
+}
+#yellow{
+    width: 100px;
+    height: 100px;
+    border: none; 
+    background-color: yellow;
+}
+
+button{
+    margin: 20px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.container{
+    text-align: center;
+    padding: 80px;
+}
