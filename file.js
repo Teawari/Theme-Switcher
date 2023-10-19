@@ -1,7 +1,7 @@
-const greyButton = document.getElementById("grey");
-const whiteButton = document.getElementById("white");
-const blueButton = document.getElementById("blue");
-const yellowButton = document.getElementById("yellow");
+// const greyButton = document.getElementById("grey");
+// const whiteButton = document.getElementById("white");
+// const blueButton = document.getElementById("blue");
+// const yellowButton = document.getElementById("yellow");
 // const body = document.body;
 
 
